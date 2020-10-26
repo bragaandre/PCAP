@@ -13,4 +13,9 @@ print("Mein","Name","ist","Andre.",sep="-")
 print("Mein", "NachName", "ist","Braga", sep="*",end="-")
 print("Monty","Python", sep="\\",end="\n")
 
+##Testing line number 4
+
+print
+print("Programming","Essentials","in",sep="***",end="...")
+print("Python")
 
