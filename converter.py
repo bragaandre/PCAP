@@ -1,7 +1,9 @@
 ### Simple converter KM_to_Miles
 
-km = 12.25       #Kilometers
-miles= 7.38       #Miles 
+km = input("Kilometers->")#Kilometers
+km = float(km)
+miles= input("Miles->")       #Miles 
+miles = float(miles)
 
 km_to_miles = km / 1.609344
 miles_to_km = miles * 1.609344
