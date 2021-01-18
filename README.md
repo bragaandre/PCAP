@@ -8,8 +8,9 @@ MODULE 2 - DONE
 MODULO 3 - Ongoing
 
 
+Last Page: 3.1.4.6 LAB: The basics of lists
 
-Updated in: January 12 2020
+Updated in: January 18 2020
 
 
 
