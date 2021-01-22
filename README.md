@@ -5,8 +5,8 @@ Course PCAP -Programming Essentials in Python
 
 MODULE 1 - DONE
 MODULE 2 - DONE
-MODULO 3 - Ongoing
-
+MODULO 3 - DONE
+MODULO 4 - Ongoing
 
 Last Page: 3.1.4.6 LAB: The basics of lists
 
